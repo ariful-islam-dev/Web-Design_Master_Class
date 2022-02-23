@@ -4,3 +4,5 @@
 
 - [x] HTML & CSS
   - [ ] HTML File + Tags
+  - [ ] HTML Tags Attribute
+  - [ ] CSS
