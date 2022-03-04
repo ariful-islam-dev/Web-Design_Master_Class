@@ -2,6 +2,6 @@
 
 **_Stack Learner_**
 
-- [x] CSS Units
-  - [ ] Absolute Lengths
-  - [ ] Relative Lengths
+- [x] CSS BOX
+  - [ ] Box Model
+  - [ ] Box Sizing

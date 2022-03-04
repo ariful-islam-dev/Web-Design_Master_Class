@@ -3,41 +3,11 @@ body {
   /* font-family: "Ephesis", cursive; */
 }
 
-.container {
-  width: 600px;
-  margin: 30px auto;
-  background: #ddd;
-  padding: 20px;
-}
-
-.title {
-  font-family: "Ephesis", cursive;
-  font-size: 4em;
-}
-
-.para {
-  font-family: Arial, Arial, Helvetica, sans-serif;
-  font-size: 2rem;
-  line-height: 1.5;
-}
-
-.btn {
-  padding: 5px 10px;
-  text-transform: uppercase;
-}
-.primary-btn {
-  background: blue;
-  color: black;
-}
-.secondary-btn {
-  background: #000;
-  color: #fff;
-}
-p {
-  font-size: 2vmax;
-}
-
-strong:hover {
-  cursor: pointer;
-  background-color: green;
+div {
+  background: green;
+  width: 200px;
+  margin: 100px;
+  outline: 10px dashed yellow;
+  border: 5px ridge red;
+  padding: 10px;
 }
