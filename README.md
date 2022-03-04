@@ -5,3 +5,4 @@
 - [x] HTML Elements
   - [ ] Block Level Elements
   - [ ] Inline Elements
+  - [ ] HTML Semantic Elements
