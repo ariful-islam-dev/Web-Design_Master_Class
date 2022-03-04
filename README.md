@@ -5,4 +5,6 @@
 - [x] HTML & CSS
   - [ ] HTML File + Tags
   - [ ] HTML Tags Attribute
-  - [ ] CSS
+  - [ ] CSS Inline, Internal and External
+  - [ ] Select Html element or tag from style file
+  - [ ] Google Font Uses
