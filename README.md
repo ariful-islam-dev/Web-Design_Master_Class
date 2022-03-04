@@ -2,7 +2,6 @@
 
 **_Stack Learner_**
 
-- [x] HTML Elements
-  - [ ] Block Level Elements
-  - [ ] Inline Elements
-  - [ ] HTML Semantic Elements
+- [x] CSS Units
+  - [ ] Absolute Lengths
+  - [ ] Relative Lengths

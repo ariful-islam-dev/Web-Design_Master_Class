@@ -12,12 +12,12 @@ body {
 
 .title {
   font-family: "Ephesis", cursive;
-  font-size: 36px;
+  font-size: 4em;
 }
 
 .para {
   font-family: Arial, Arial, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 2rem;
   line-height: 1.5;
 }
 
@@ -32,6 +32,9 @@ body {
 .secondary-btn {
   background: #000;
   color: #fff;
+}
+p {
+  font-size: 2vmax;
 }
 
 strong:hover {
